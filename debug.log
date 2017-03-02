@@ -1,0 +1,3 @@
+[0302/150003.132:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\reports: 存取被拒。 (0x5)
+[0302/150003.136:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: 管道已結束。 (0x6D)
+[0302/150003.138:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\reports: 存取被拒。 (0x5)

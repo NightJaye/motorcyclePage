@@ -1,0 +1,28 @@
+﻿.type
+{
+  font-weight: bold;
+  font-family: Arial;
+
+}
+h2
+{
+  color: white;
+  font-weight: bold;
+  font-family: "Arial",Yu Gothic,sans-serif;
+}
+h4
+{
+  color: white;
+  font-weight: bold;
+  text-align: justify;
+  font-family: "微軟正黑體", "Microsoft JhengHei",sans-serif;
+}
+  body
+  {
+
+    margin:0;
+    padding:0;
+    background:url(Picture/European/KTM/KTM_logo.jpg) center center fixed no-repeat;
+    -moz-background-size: cover;
+    background-size: cover;
+  }

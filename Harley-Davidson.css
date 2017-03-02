@@ -1,0 +1,29 @@
+﻿.type
+{
+  font-weight: bold;
+  font-family: Arial;
+
+}
+h2
+{
+
+  color: white;
+  font-weight: bold;
+  font-family: "Times New Roman","Yu Gothic";
+}
+h4
+{
+  text-align: justify;
+  font-weight: bold;
+  color: white;
+  font-family: "微軟正黑體", "Microsoft JhengHei";
+}
+  body
+  {
+
+    margin:0;
+    padding:0;
+    background:url(Picture/Americas/Harley-Davidson/Backup/harley_davidson_logo3.jpg) center center fixed no-repeat;
+    -moz-background-size: cover;
+    background-size: cover;
+  }
